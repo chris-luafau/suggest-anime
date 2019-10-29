@@ -18,10 +18,12 @@ export default class App extends React.Component {
               <StyledLink to="/">Suggest: ANIME</StyledLink>
             </H1>
           </Header>
-          <Switch>
-            <Route exact path="/" component={Home} />
-            <Route path="/Display" component={Display} />
-          </Switch>
+          <div>
+            <Switch>
+              <Route exact path="/" component={Home} />
+              <Route path="/Display" component={Display} />
+            </Switch>
+          </div>
         </Router>
       </AppWrapper>
       )
