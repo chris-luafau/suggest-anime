@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.js": "/suggest-anime/static/js/main.3738148b.chunk.js",
+    "main.js.map": "/suggest-anime/static/js/main.3738148b.chunk.js.map",
+    "runtime-main.js": "/suggest-anime/static/js/runtime-main.b5a2e426.js",
+    "runtime-main.js.map": "/suggest-anime/static/js/runtime-main.b5a2e426.js.map",
+    "static/js/2.909cce6d.chunk.js": "/suggest-anime/static/js/2.909cce6d.chunk.js",
+    "static/js/2.909cce6d.chunk.js.map": "/suggest-anime/static/js/2.909cce6d.chunk.js.map",
+    "index.html": "/suggest-anime/index.html",
+    "precache-manifest.c6e07a84c7210ecf1f87d0ded6cf675e.js": "/suggest-anime/precache-manifest.c6e07a84c7210ecf1f87d0ded6cf675e.js",
+    "service-worker.js": "/suggest-anime/service-worker.js"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b5a2e426.js",
+    "static/js/2.909cce6d.chunk.js",
+    "static/js/main.3738148b.chunk.js"
+  ]
+}
