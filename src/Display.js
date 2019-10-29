@@ -118,11 +118,6 @@ const ModalScoreImg = styled.div `
   width: 50%;
   height: auto;
 `
-const ModalScore = styled.div `
-  height: 100%;
-  width: 100%;
-  margin: auto;
-`
 const Wrapper = styled.div `
   display: flex;
   width: 100%;

@@ -54,16 +54,7 @@ const H1 = styled.h1 `
   font-size: 2.5rem;
   color: #D7DADC;
 `
-const H1Type = styled.span `
-  background: linear-gradient(217deg, rgba(255,0,0,.8), rgba(255,0,0,0) 70.71%),
-         linear-gradient(127deg, rgba(0,255,0,.8), rgba(0,255,0,0) 70.71%),
-         linear-gradient(336deg, rgba(0,0,255,.8), rgba(0,0,255,0) 70.71%);
-  font-family: sans-serif;
-  font-size: 2.5rem;
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
-  text-transform: uppercase;
-`
+
 const StyledLink = styled(Link)`
     text-decoration: none;
     &:focus, &:hover, &:visited, &:link, &:active {
