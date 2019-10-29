@@ -12,14 +12,14 @@ export default class App extends React.Component {
     return (
       <AppWrapper>
         <GlobalStyle />
-        <Router>
+        <Router basename={process.env.PUBLIC_URL}>
           <Header>
             <H1>
-              <StyledLink to="/suggest-anime">Suggest: ANIME</StyledLink>
+              <StyledLink to="/">Suggest: ANIME</StyledLink>
             </H1>
           </Header>
           <Switch>
-            <Route exact path="/suggest-anime" component={Home} />
+            <Route exact path="/" component={Home} />
             <Route path="/Display" component={Display} />
           </Switch>
         </Router>
