@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.js": "/suggest-anime/static/js/main.9d1f4b95.chunk.js",
-    "main.js.map": "/suggest-anime/static/js/main.9d1f4b95.chunk.js.map",
+    "main.js": "/suggest-anime/static/js/main.5b72037d.chunk.js",
+    "main.js.map": "/suggest-anime/static/js/main.5b72037d.chunk.js.map",
     "runtime-main.js": "/suggest-anime/static/js/runtime-main.b5a2e426.js",
     "runtime-main.js.map": "/suggest-anime/static/js/runtime-main.b5a2e426.js.map",
     "static/js/2.909cce6d.chunk.js": "/suggest-anime/static/js/2.909cce6d.chunk.js",
     "static/js/2.909cce6d.chunk.js.map": "/suggest-anime/static/js/2.909cce6d.chunk.js.map",
     "index.html": "/suggest-anime/index.html",
-    "precache-manifest.fb4c305ce32385f874454005c6cdb953.js": "/suggest-anime/precache-manifest.fb4c305ce32385f874454005c6cdb953.js",
+    "precache-manifest.89867850ec64fbd0100edb88940d752d.js": "/suggest-anime/precache-manifest.89867850ec64fbd0100edb88940d752d.js",
     "service-worker.js": "/suggest-anime/service-worker.js"
   },
   "entrypoints": [
     "static/js/runtime-main.b5a2e426.js",
     "static/js/2.909cce6d.chunk.js",
-    "static/js/main.9d1f4b95.chunk.js"
+    "static/js/main.5b72037d.chunk.js"
   ]
 }
