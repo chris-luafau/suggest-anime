@@ -32,5 +32,8 @@
       "last 1 safari version"
     ]
   },
-  "homepage": "https://chris-luafau.github.io/suggest-anime"
+  "homepage": "https://chris-luafau.github.io/suggest-anime",
+  "devDependencies": {
+    "gh-pages": "^2.1.1"
+  }
 }
