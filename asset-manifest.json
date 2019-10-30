@@ -1,18 +1,19 @@
 {
   "files": {
-    "main.js": "/suggest-anime/static/js/main.d1e110e5.chunk.js",
-    "main.js.map": "/suggest-anime/static/js/main.d1e110e5.chunk.js.map",
+    "main.js": "/suggest-anime/static/js/main.182f961f.chunk.js",
+    "main.js.map": "/suggest-anime/static/js/main.182f961f.chunk.js.map",
     "runtime-main.js": "/suggest-anime/static/js/runtime-main.b5a2e426.js",
     "runtime-main.js.map": "/suggest-anime/static/js/runtime-main.b5a2e426.js.map",
-    "static/js/2.909cce6d.chunk.js": "/suggest-anime/static/js/2.909cce6d.chunk.js",
-    "static/js/2.909cce6d.chunk.js.map": "/suggest-anime/static/js/2.909cce6d.chunk.js.map",
+    "static/js/2.31b5a2be.chunk.js": "/suggest-anime/static/js/2.31b5a2be.chunk.js",
+    "static/js/2.31b5a2be.chunk.js.map": "/suggest-anime/static/js/2.31b5a2be.chunk.js.map",
     "index.html": "/suggest-anime/index.html",
-    "precache-manifest.facb1aa898315a2bbda30076e7af4ec1.js": "/suggest-anime/precache-manifest.facb1aa898315a2bbda30076e7af4ec1.js",
-    "service-worker.js": "/suggest-anime/service-worker.js"
+    "precache-manifest.75af173bb0e32695b11abccd3cfa5e80.js": "/suggest-anime/precache-manifest.75af173bb0e32695b11abccd3cfa5e80.js",
+    "service-worker.js": "/suggest-anime/service-worker.js",
+    "static/media/Eurostile.ttf": "/suggest-anime/static/media/Eurostile.1175a331.ttf"
   },
   "entrypoints": [
     "static/js/runtime-main.b5a2e426.js",
-    "static/js/2.909cce6d.chunk.js",
-    "static/js/main.d1e110e5.chunk.js"
+    "static/js/2.31b5a2be.chunk.js",
+    "static/js/main.182f961f.chunk.js"
   ]
 }
